@@ -1,0 +1,10 @@
+{
+  "name": "audio-visualizer",
+  "main": "audiovisualizer.html",
+  "window" : {
+        "frame": true,
+        "resizable": true,
+        "toolbar": true
+  },
+  "chromium-args": "--enable-usermedia-screen-capturing"
+}
